@@ -1,3 +1,8 @@
 # HTML.Odev-1
+
 Bu ödevimizde ilk web sayfamızı tasarlayacağız. 
 Ödevde h1 başlığında ismimiz h2 başlığında hakkımızda yazması. Sonrasında da habilerimiz neler yaptığımız gibi şeyler yazılması. Ve yorum satırlarının da bulunması.
+
+# HTML.Odev-2
+
+Bu ödevde sevdiğim filmler, kitaplar ve dizileri ekledim siteme.Bu eklemeyi order list ve unorder listi içiçe kullanarak yaptım.  Filmlere bağlantı linki ekledim ve bir filmin fotoğrafını ekeleyerek hakkında bilgi veren bir yazı paylaştım. Son olarak bu eklentilerde strong ve emphasise elementlerini de kullandım.
