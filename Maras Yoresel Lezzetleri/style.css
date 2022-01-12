@@ -1,0 +1,47 @@
+#anasayfa{
+    text-align: center;
+
+}
+#sekmeler{
+    text-align: center;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#footer-sekmeler{
+    text-align: center;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#hakkimizda{
+    text-align: center;
+}
+
+#adres{
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+
+}
+p, h1, article, h2{
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+a{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    color: black;
+    font-size: 20px;
+}
