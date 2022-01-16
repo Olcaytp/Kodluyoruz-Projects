@@ -18,3 +18,7 @@ Bu ödevde Insertion Sort Algoritmasında yapılan işlemleri, Big-O gösterimi,
 # Merge Sort Projesi
 
 Bu ödevde Merge Sort Algoritmasını ve verilen dizinin Big-O notasyonunu  inceledik.
+
+# Binary Search Tree Projesi
+
+Bu ödevde Binary Search Tree Algoritmasını inceledik.
