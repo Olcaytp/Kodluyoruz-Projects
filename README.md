@@ -14,3 +14,7 @@ Bu ödevde maraş yöresel lezzetlerin tanıtıldığı bir web sitesi hazırlad
 # Insertion Sort Projesi
 
 Bu ödevde Insertion Sort Algoritmasında yapılan işlemleri, Big-O gösterimi, Time-Complexity ve case durumlarını inceledik.
+
+# Merge Sort Projesi
+
+Bu ödevde Merge Sort Algoritmasını ve verilen dizinin Big-O notasyonunu  inceledik.
