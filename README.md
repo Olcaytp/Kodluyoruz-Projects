@@ -6,3 +6,11 @@ Bu ödevimizde ilk web sayfamızı tasarlayacağız.
 # HTML.Odev-2
 
 Bu ödevde sevdiğim filmler, kitaplar ve dizileri ekledim siteme.Bu eklemeyi order list ve unorder listi içiçe kullanarak yaptım.  Filmlere bağlantı linki ekledim ve bir filmin fotoğrafını ekeleyerek hakkında bilgi veren bir yazı paylaştım. Son olarak bu eklentilerde strong ve emphasise elementlerini de kullandım.
+
+# Css.Odev-3
+
+Bu ödevde maraş yöresel lezzetlerin tanıtıldığı bir web sitesi hazırladım.Css Derslerinde gördüğümüz konulardan yararlanarak güzel bir site oluşturdum.
+
+# Insertion Sort Projesi
+
+Bu ödevde Insertion Sort Algoritmasında yapılan işlemleri, Big-O gösterimi, Time-Complexity ve case durumlarını inceledik.
