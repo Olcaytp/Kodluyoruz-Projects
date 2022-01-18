@@ -22,3 +22,7 @@ Bu ödevde Merge Sort Algoritmasını ve verilen dizinin Big-O notasyonunu  ince
 # Binary Search Tree Projesi
 
 Bu ödevde Binary Search Tree Algoritmasını inceledik.
+
+# BOOTSTRAP.Odev-1
+
+Bu ödevde müzik aleti satış sitesi isteniyordu fakat sonraki dersin altındaki linkte demo web sitesi yapmak ilgimi çekti ve o videoyu izleyerek demo web sitesi yaptım. Bootstrap ile alakalı çok güzel şeyler öğrendim. 
