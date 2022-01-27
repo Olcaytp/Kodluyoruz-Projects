@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Form Anket</title>
+  </head>
+
+  <body>
+    <h1>Form Anket</h1>
+
+    <div class="container">
+      <form id="myForm" autocomplete="on" action="/" onsubmit="submitFunction()">
+        <label for="fname">Adınız-Soyadınız:</label><br />
+        <input type="text" name="fname" id="nameArea" /><br /><br />
+        <label for="fnumber">Telefon Numaranız:</label><br />
+        <input type="number" name="fnumber" id="telArea" /><br /><br />
+        <label for="fadress">Adresiniz:</label><br />
+        <input type="text" name="fadress" id="adressArea" /><br /><br />
+        <input type="Submit" name="Submit" id="submitButton">
+      </form>
+
+    </div>
+    <script src="scrpt.js"></script>
+  </body>
+
+</html>

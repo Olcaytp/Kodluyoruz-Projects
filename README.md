@@ -34,3 +34,7 @@ Bu ödevde müzik aleti satış sitesi isteniyordu fakat sonraki dersin altında
 # JavaScpript.Odev-1
 
 Bizden girişte isminizi isteyip sonra bu ismi karşılama ekranına yerleştirerek o anki saati ve günü gösteren ekran projesine "js/clock.js" klasör ve dosyası ve kodları eklenmiştir.
+
+# JavaScpript.Alıştırma-1
+
+Form ve Form Submit Yönetimi dersindeki öğrendiğimiz ve hocamızın ders sonunda hazırladığı formdan esinlenerek isteediği FormAnket çalışması eklenmiştir.
