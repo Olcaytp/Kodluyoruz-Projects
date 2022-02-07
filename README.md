@@ -42,3 +42,7 @@ Form ve Form Submit Yönetimi dersindeki öğrendiğimiz ve hocamızın ders son
 # PostgreSQL.Odev-1
 
 dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiştir.
+
+# PostgreSQL.Odev-1
+
+dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiştir. ( between - and yapısı ve in operatörü kullanılmıştır)
