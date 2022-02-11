@@ -66,3 +66,7 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-4
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 4.pratik çalışmamız " Taksimetre Programı " kodlarını yazdık.
+
+# Java.Pratik-5
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 5.pratik çalışmamız " Dairenin Alanını ve Çevresini Bulan Program " kodlarını yazdık.
