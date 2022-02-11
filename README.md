@@ -46,3 +46,7 @@ dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiş
 # PostgreSQL.Odev-2
 
 dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiştir. ( between - and yapısı ve in operatörü kullanılmıştır)
+
+# PostgreSQL.Odev-2
+
+dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiştir.
