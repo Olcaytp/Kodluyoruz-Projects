@@ -1,4 +1,3 @@
-package TemelKavramlarVeDesikenler;
 import java.util.Scanner;
 
 public class Main {
