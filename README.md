@@ -71,6 +71,10 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 5.pratik çalışmamız " Dairenin Alanını ve Çevresini Bulan Program " kodlarını yazdık.
 
-# Java.Pratik-6
+# Java.Ödev-1
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.ödev çalışmamız " Vücut Kitle İndeksi Hesaplayan Program " kodlarını yazdık.
+
+# Java.Ödev-2
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.ödev çalışmamız " Manav Kasa Programı " kodlarını yazdık.
