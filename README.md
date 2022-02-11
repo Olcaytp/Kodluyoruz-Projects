@@ -57,4 +57,8 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 
 # Java.Pratik-2
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.pratik çalışmamız " KDV Tutarı Hesaplayan Program " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.pratik çalışmamız " KDV Tutarı Hesaplayan Program " kodlarını yazdık.
+
+# Java.Pratik-3
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 3.pratik çalışmamız " KDV Tutarı Hesaplayan Program " kodlarını yazdık.
