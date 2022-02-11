@@ -50,3 +50,7 @@ dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiş
 # PostgreSQL.Odev-2
 
 dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiştir.
+
+# Java.Pratik-1
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.pratik çalışmamız " Not Ortalaması Hesaplayan Program " kodlarını yazdık.
