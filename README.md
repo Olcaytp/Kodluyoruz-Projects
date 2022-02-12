@@ -90,3 +90,7 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-8
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 8.pratik çalışmamız " Sınıfı Geçme Durumu " projesini yazdık.
+
+# Java.Pratik-9
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 9.pratik çalışmamız " Hava Sıcaklığına Göre Etkinlik Önerme " projesini yazdık.
