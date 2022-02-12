@@ -78,3 +78,7 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Ödev-2
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.ödev çalışmamız " Manav Kasa Programı " kodlarını yazdık.
+
+# Java.Pratik-6
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 6.pratik çalışmamız " Hesap Makinesi " kodlarını yazdık.
