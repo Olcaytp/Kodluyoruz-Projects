@@ -53,36 +53,40 @@ dvdrental örnek veritabanı üzerindeki istenilen sorgular gerçekleştirilmiş
 
 # Java.Pratik-1
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.pratik çalışmamız " Not Ortalaması Hesaplayan Program " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.pratik çalışmamız " Not Ortalaması Hesaplayan Program " projesini yazdık.
 
 # Java.Pratik-2
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.pratik çalışmamız " KDV Tutarı Hesaplayan Program " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.pratik çalışmamız " KDV Tutarı Hesaplayan Program " projesini yazdık.
 
 # Java.Pratik-3
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 3.pratik çalışmamız " KDV Tutarı Hesaplayan Program " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 3.pratik çalışmamız " KDV Tutarı Hesaplayan Program " projesini yazdık.
 
 # Java.Pratik-4
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 4.pratik çalışmamız " Taksimetre Programı " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 4.pratik çalışmamız " Taksimetre Programı " projesini yazdık.
 
 # Java.Pratik-5
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 5.pratik çalışmamız " Dairenin Alanını ve Çevresini Bulan Program " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 5.pratik çalışmamız " Dairenin Alanını ve Çevresini Bulan Program " projesini yazdık.
 
 # Java.Ödev-1
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.ödev çalışmamız " Vücut Kitle İndeksi Hesaplayan Program " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 1.ödev çalışmamız " Vücut Kitle İndeksi Hesaplayan Program " projesini yazdık.
 
 # Java.Ödev-2
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.ödev çalışmamız " Manav Kasa Programı " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 2.ödev çalışmamız " Manav Kasa Programı " projesini yazdık.
 
 # Java.Pratik-6
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 6.pratik çalışmamız " Hesap Makinesi " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 6.pratik çalışmamız " Hesap Makinesi " projesini yazdık.
 
 # Java.Pratik-7
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 7.pratik çalışmamız " Kullanıcı Girişi " kodlarını yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 7.pratik çalışmamız " Kullanıcı Girişi " projesini yazdık.
+
+# Java.Pratik-8
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 8.pratik çalışmamız " Sınıfı Geçme Durumu " projesini yazdık.
