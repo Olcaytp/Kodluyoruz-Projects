@@ -98,3 +98,7 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-10
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 10.pratik çalışmamız " Küçükten Büyüğe Sıralama " projesini yazdık.
+
+# Java.Pratik-11
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 11.pratik çalışmamız " Burç Hesaplama " projesini yazdık.
