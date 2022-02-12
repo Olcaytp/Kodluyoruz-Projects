@@ -82,3 +82,7 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-6
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 6.pratik çalışmamız " Hesap Makinesi " kodlarını yazdık.
+
+# Java.Pratik-7
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 7.pratik çalışmamız " Kullanıcı Girişi " kodlarını yazdık.
