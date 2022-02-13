@@ -102,3 +102,6 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-11
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 11.pratik çalışmamız " Burç Hesaplama " projesini yazdık.
+# Java.Odev-3
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 11.pratik çalışmamız " Uçak Bileti Fiyatı Hesaplama " projesini yazdık.
