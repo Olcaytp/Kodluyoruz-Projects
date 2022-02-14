@@ -107,4 +107,4 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 3.Ödev çalışmamız " Uçak Bileti Fiyatı Hesaplama " projesini yazdık.
 # Java.Odev-4
 
-Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 4.Ödev çalışmamız " Uçak Bileti Fiyatı Hesaplama " projesini yazdık.
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 4.Ödev çalışmamız " Çin Zodyağı Hesaplama " projesini yazdık.
