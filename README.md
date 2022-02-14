@@ -108,3 +108,6 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Odev-4
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 4.Ödev çalışmamız " Çin Zodyağı Hesaplama " projesini yazdık.
+# Java.Odev-5
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 5.Ödev çalışmamız " Artık YIl Hesaplama " projesini yazdık.
