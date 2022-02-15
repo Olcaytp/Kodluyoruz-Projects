@@ -114,3 +114,6 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-12
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 12.pratik çalışmamız " Cift Sayi Bulan Program " projesini yazdık.
+# Java.Pratik-13
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 13.pratik çalışmamız " Cift ve 4ün katlarını Bulan Program " projesini yazdık.
