@@ -111,3 +111,6 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Odev-5
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 5.Ödev çalışmamız " Artık YIl Hesaplama " projesini yazdık.
+# Java.Pratik-12
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 12.pratik çalışmamız " Cift Sayi Bulan Program " projesini yazdık.
