@@ -123,3 +123,6 @@ Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Jav
 # Java.Pratik-15
 
 Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 15.pratik çalışmamız " Kombinasyon Hesaplayan Program " projesini yazdık.
+# Java.Pratik-16
+
+Başlangıç Seviye Java ile Backend Web Development Patikası kapsamındaki Java101 dersi için 16.pratik çalışmamız " Üslü Sayı Hesaplayan Program " projesini yazdık.
