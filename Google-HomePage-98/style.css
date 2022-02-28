@@ -1,0 +1,58 @@
+.container {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  
+  .upbar {
+    background-color: #f1eeee;
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+  }
+  
+  section {
+    display: flex;
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+  
+  .leftbar {
+    background: #7ee5da;
+    width: 37%;
+    margin-top: 3px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .midbar {
+    background: #6acabf;
+    margin-left: 3px;
+    width: 20%;
+    margin-top: 3px;
+    padding: 4px;
+    font-size: small;
+    text-align: center;
+  }
+  
+  .rightbar {
+    background: #62b3aa;
+    margin-left: 3px;
+    width: 43%;
+    margin-top: 3px;
+    font-size: small;
+    text-align: center;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: small;
+  }
+  
